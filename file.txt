@@ -1,0 +1,6 @@
+student manegement system
+module1: student registration
+module2: student login
+module3: teacher registration
+module4: teacher login
+module5:student search option
